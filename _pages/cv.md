@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae
-======
-Click the link below to view or download my CV:
-
-[Download CV (PDF)](/files/pdf/cv.pdf)
-
-
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
