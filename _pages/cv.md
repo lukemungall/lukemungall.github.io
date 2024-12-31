@@ -11,4 +11,4 @@ redirect_from:
 
 Click the link below to view or download my CV:
 
-[Download CV (PDF)](/assets/pdf/LM_CV_07_03_2024.pdf)
+[Download CV (PDF)](/files/pdf/LM_CV_07_03_2024.pdf)
