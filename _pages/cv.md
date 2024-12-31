@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Curriculum Vitae
 
 Click the link below to view or download my CV:
