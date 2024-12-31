@@ -13,7 +13,7 @@ Curriculum Vitae
 ======
 Click the link below to view or download my CV:
 
-[Download CV (PDF)](/assets/pdf/cv.pdf)
+[Download CV (PDF)](/files/pdf/cv.pdf)
 
 
 Education
