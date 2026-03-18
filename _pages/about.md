@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Hi! I'm Luke Mungall."
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
- I am PhD candidate in experimental psychology at Dalhousie University. I study how personality traits relate to political attitudes and antisocial behaviour. 
+ Hi! I'm Luke Mungall. I am PhD candidate in experimental psychology at Dalhousie University, and I study how personality traits relate to political attitudes and antisocial behaviour. 
 
  Under construction!
